@@ -4,7 +4,7 @@
 
 [![NBinte's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbinte&show_icons=true&theme=cobalt)](https://github.com/nbinte/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbintelangs_count=10)](https://github.com/nbinte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbinte&langs_count=10)](https://github.com/nbinte/github-readme-stats)
 
 
 
