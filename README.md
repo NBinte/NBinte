@@ -5,7 +5,7 @@
 
 [![NBinte's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbinte&count_private=true&show_icons=true&theme=cobalt)](https://github.com/nbinte/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NBinte)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NBinte&theme=dark)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbinte&langs_count=10)](https://github.com/nbinte/github-readme-stats)
 
