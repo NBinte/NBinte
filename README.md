@@ -7,6 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbinte&langs_count=10)](https://github.com/nbinte/github-readme-stats)
 
 
+![Visitor Count](https://profile-counter.glitch.me/nbinte/count.svg)
+
 
 <!--
 **NBinte/NBinte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
