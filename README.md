@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbinte&langs_count=10)](https://github.com/nbinte/github-readme-stats)
 
-
+<h3 align="center"> Visitor Count </h3>
 ![Visitor Count](https://profile-counter.glitch.me/nbinte/count.svg)
 
 
