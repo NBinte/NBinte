@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Nuzhat+Binte+Islam+|+Software+Engineer;C+|+CPP+|+Java;HTML+|+CSS+|+Bootstrap;PHP+|+JavaScript;React+|+React-Bootstrap;Redux+|+React-Redux;Laravel+|+Node.js&width=500&duration=4000&center=true&vCenter=true&background="000000")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Nuzhat+Binte+Islam+|+Software+Engineer;C+|+CPP+|+Java;HTML+|+CSS+|+Bootstrap;PHP+|+JavaScript;React+|+React-Router+|+React-Bootstrap;Redux+|+React-Redux;Laravel+|+Node.js&width=500&duration=4000&center=true&vCenter=true&background="000000")](https://git.io/typing-svg)
   
 </div>  
   
