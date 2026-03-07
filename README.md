@@ -20,9 +20,5 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Tsuki">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tsuki&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fcnqoq7f5kd23pb7xz7ty3z5ti&count=3)
 
