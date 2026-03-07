@@ -1,4 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nbinte&label=Profile%20views&color=0e75b6&style=flat" alt="nbinte" /> </p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nbinte&label=Profile%20views&color=0e75b6&style=flat" alt="nbinte" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> -->
@@ -15,3 +19,9 @@
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
