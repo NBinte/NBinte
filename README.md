@@ -20,5 +20,4 @@
 ### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Spotify Recently Played:</h3>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fcnqoq7f5kd23pb7xz7ty3z5ti&count=3)
