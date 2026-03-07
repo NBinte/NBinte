@@ -20,10 +20,4 @@
 ### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBinte/NBinte/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NBinte/NBinte/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NBinte/NBinte/output/pacman-contribution-graph.svg">
-</picture>
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fcnqoq7f5kd23pb7xz7ty3z5ti&count=3)
