@@ -7,28 +7,28 @@
 ## GitHub Stats:
 
 <p align="center">
-  <img src="assets/shiba.gif" alt="Animation 1" width="150" style="display: inline;">
+  <img src="assets/shiba.gif" alt="shiba" width="150" style="display: inline;">
   <img src="https://github-readme-stats.shion.dev/api?username=NBinte&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="assets/winning.gif" alt="Animation 1" width="200" style="display: inline;">
+  <img src="assets/winning.gif" alt="winning" width="200" style="display: inline;">
 </p>
 
 <p align="center">  
-  <img src="assets/piano.gif" alt="Animation 1" width="150" style="display: inline;">
+  <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
   <img src="https://streak-stats.demolab.com/?user=NBinte&theme=dark&hide_border=false" alt="GitHub Stats">
-  <img src="assets/fist.gif" alt="Animation 3" width="200" style="display: inline;">
+  <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
 </p>
 
 <p align="center">
-  <img src="assets/archery.gif" alt="Animation 1" width="200" style="display: inline;">
+  <img src="assets/archery.gif" alt="archery" width="150" style="display: inline;">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NBinte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
-  <img src="assets/gaming.gif" alt="Animation 3" width="200" style="display: inline;">
-  <img src="assets/chess.gif" alt="Animation 2" width="200" style="display: inline;">
+  <img src="assets/gaming.gif" alt="gaming" width="200" style="display: inline;">
+  <img src="assets/chess.gif" alt="chess" width="150" style="display: inline;">
 </p>
 
 <p align="center">
-  <img src="assets/hfive.gif" alt="Animation 2" width="200" style="display: inline;">
+  <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Stats">
-  <img src="assets/lesgoooo.gif" alt="Animation 3" width="200" style="display: inline;">
+  <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
