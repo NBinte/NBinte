@@ -13,9 +13,16 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<p align="center">
-  <img src="assets/winning.gif" alt="winning">
+<p>
+  <img src="assets/shiba.gif" alt="Animation 1" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/winning.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/piano.gif" alt="Animation 3" width="200" style="display: inline-block;">
+  <img src="assets/fist.gif" alt="Animation 3" width="200" style="display: inline-block;">
+  <img src="assets/gaming.gif" alt="Animation 3" width="200" style="display: inline-block;">
+  <img src="assets/chess.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 10px;">
+   <img src="assets/archery.gif" alt="Animation 1" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/hfive.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/lesgoooo.gif" alt="Animation 3" width="200" style="display: inline-block;">
 </p>
 
 ```
@@ -28,3 +35,12 @@
 >=>      >=>     >===>          >===>          >===>          >===>          >===>
 
 ```
+
+<p>
+  <img src="assets/sus.gif" alt="Animation 1" width="200" style="display: inline-block; margin-right: 20px;">
+  <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 20px;">
+ <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 20px;">
+ <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 20px;">
+ <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 20px;">
+ <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline-block; margin-right: 20px;">
+</p>
