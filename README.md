@@ -27,12 +27,11 @@
 
 <p align="center">
   <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="GitHub Stats">
   <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ```
 >======>         >===>          >===>          >===>          >===>          >===>
