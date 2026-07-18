@@ -5,6 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nbinte&label=Profile%20views&color=0e75b6&style=flat" alt="nbinte" /> </p>
 
+
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1200&pause=2000&backgroundColor=%23000000&cursorStyle=block&deletionBehavior=clear&lines=%5B%7B%22text%22%3A%22I+%F0%9F%90%9D+%F0%9F%8D%83+in+you%21%22%2C%22color%22%3A%22%23d79cf2%22%2C%22fontSize%22%3A40%2C%22typingSpeed%22%3A0.1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 <p align="center">
