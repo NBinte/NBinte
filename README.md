@@ -15,29 +15,24 @@
 <!-- Github Stats (Total Commit) (Updated)-->
 <p align="center">
   <img src="assets/shiba.gif" alt="shiba" width="150" style="display: inline;">
- 
+  <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
+  <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
   <img src="assets/winning.gif" alt="winning" width="200" style="display: inline;">
 </p>
 
-<!-- Github Stats -->
-<p align="center">  
-  <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
-  
-  <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
-</p>
-
 <p align="center">
+  <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
   <img src="assets/archery.gif" alt="archery" width="150" style="display: inline;">
-  
   <img src="assets/gaming.gif" alt="gaming" width="200" style="display: inline;">
   <img src="assets/chess.gif" alt="chess" width="150" style="display: inline;">
+  <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
 </p>
 
 <!-- Random Quote (Updated)-->
 <p align="center">
-  <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&height=1000" alt="GitHub Stats">
-  <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="GitHub Stats">
+  
 </p>
 
 ```
