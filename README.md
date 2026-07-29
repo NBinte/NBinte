@@ -14,7 +14,7 @@
 
 <p align="center">  
   <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=NBinte1&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=NBinte&theme=dark)](https://git.io/streak-stats)
   <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
 </p>
 
