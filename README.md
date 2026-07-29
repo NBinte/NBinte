@@ -15,9 +15,7 @@
 <!-- Github Stats (Total Commit) (Updated)-->
 <p align="center">
   <img src="assets/shiba.gif" alt="shiba" width="150" style="display: inline;">
-    <div data-importer="stats" align="center">
-    <img src="https://raw.githubusercontent.com/NBinte/NBinte/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    </div>
+ 
   <img src="assets/winning.gif" alt="winning" width="200" style="display: inline;">
 </p>
 
