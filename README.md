@@ -53,3 +53,25 @@
   <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline; margin-right: 20px;">
   <img src="assets/sus.gif" alt="Animation 2" width="200" style="display: inline;">
 </p>
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+  
+  .wave {
+    display: inline-block;
+    animation: wave 2s infinite;
+    transform-origin: 70% 70%;
+    font-size: 48px;
+  }
+</style>
+
+<div class="wave">👋</div>
