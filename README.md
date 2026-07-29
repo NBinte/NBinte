@@ -36,7 +36,7 @@
 <!-- Random Quote -->
 <p align="center">
   <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="GitHub Stats">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko&height=600" alt="GitHub Stats">
   <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
 </p>
 
