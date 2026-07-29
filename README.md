@@ -22,7 +22,7 @@
 <!-- Github Stats -->
 <p align="center">  
   <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
-  <img src="https://streak-stats.demolab.com/?user=NBinte&theme=date_night&hide_border=true" alt="GitHub Stats">
+  
   <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
 </p>
 
@@ -33,9 +33,10 @@
   <img src="assets/chess.gif" alt="chess" width="150" style="display: inline;">
 </p>
 
+<!-- Random Quote -->
 <p align="center">
   <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="GitHub Stats">
   <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
 </p>
 
