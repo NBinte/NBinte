@@ -22,7 +22,7 @@
 <!-- Github Stats -->
 <p align="center">  
   <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
-  
+  <img src="https://github-contributor-stats.vercel.app/api?username=NBinte&limit=5&theme=rose&combine_all_yearly_contributions=true" alt="GitHub Stats">
   <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
 </p>
 
