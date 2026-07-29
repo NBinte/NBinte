@@ -12,16 +12,17 @@
 <!-- Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NBinte&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Activity Graph -->
+<!-- Github Stats -->
 <p align="center">
   <img src="assets/shiba.gif" alt="shiba" width="150" style="display: inline;">
   <img src="https://github-readme-stats.shion.dev/api?username=NBinte&theme=date_night&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
   <img src="assets/winning.gif" alt="winning" width="200" style="display: inline;">
 </p>
 
+<!-- Github Stats -->
 <p align="center">  
   <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
-  <img src="https://streak-stats.demolab.com/?user=NBinte&theme=dark&hide_border=false" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=NBinte&theme=date_night&hide_border=true" alt="GitHub Stats">
   <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
 </p>
 
