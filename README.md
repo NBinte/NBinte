@@ -35,9 +35,9 @@
 
 <!-- Random Quote -->
 <p align="center">
-  <img src="assets/hfive.gif" alt="hfive" width="150" style="display: inline;">
+  <img src="assets/hfive.gif" alt="hfive" width="140" style="display: inline;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="GitHub Stats">
-  <img src="assets/lesgoooo.gif" alt="lesgoooo" width="150" style="display: inline;">
+  <img src="assets/lesgoooo.gif" alt="lesgoooo" width="140" style="display: inline;">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
