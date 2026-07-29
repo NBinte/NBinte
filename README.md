@@ -15,14 +15,14 @@
 <!-- Github Stats -->
 <p align="center">
   <img src="assets/shiba.gif" alt="shiba" width="150" style="display: inline;">
-  <img src="https://github-readme-stats.shion.dev/api?username=NBinte&theme=date_night&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api?username=NBinte&theme=date_night&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="assets/winning.gif" alt="winning" width="200" style="display: inline;">
 </p>
 
 <!-- Github Stats -->
 <p align="center">  
   <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
-  
+  https://github-readme-stats.shion.dev/api/top-langs/?username=NBinte&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact
   <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
 </p>
 
