@@ -46,8 +46,6 @@
 
 ```
 
-https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Keep%20going,%20you've%20got%20this!%20(ง%20•̀_•́)ง&section=footer&reversal=false&textBg=false&fontAlign=48&fontSize=40&animation=twinkling&descAlign=100&descAlignY=100
-
 <!-- Gifs -->
 <p>
   <img src="assets/sus.gif" alt="Animation 1" width="200" style="display: inline; margin-right: 20px;">
