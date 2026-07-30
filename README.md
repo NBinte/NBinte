@@ -18,6 +18,7 @@
   <img src="assets/piano.gif" alt="piano" width="100" style="display: inline;">
   <img src="assets/fist.gif" alt="fist" width="200" style="display: inline;">
   <img src="assets/winning.gif" alt="winning" width="200" style="display: inline;">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NBinte&theme=sakura-x)](https://git.io/streak-stats)
 </p>
 
 <!-- Gifs -->
